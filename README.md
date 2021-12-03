@@ -2,7 +2,7 @@
 Fast simulations for the LHCb calorimeter (July 2021)
 
 
-A lo largo del periodo [Marzo-Julio+] realicé contribuciones para el equipo de altas energías de la UB en colaboración con el grupo CERN y el grupo de apoyo al CERN de la Universidad de Cincinnati.
+A lo largo del periodo [Marzo-Julio] 2021 realicé contribuciones para el equipo de altas energías de la UB en colaboración con el grupo CERN y el grupo de apoyo al CERN de la Universidad de Cincinnati.
 
 ## CONTEXTO A LA FÍSICA DE PARTÍCULAS
 
